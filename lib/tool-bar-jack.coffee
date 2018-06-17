@@ -1,6 +1,6 @@
 module.exports =
   activate: (state) ->
-    require('atom-package-deps').install('tool-bar-main')
+    require('atom-package-deps').install('tool-bar-jack')
 
   deactivate: ->
     @toolBar?.removeItems()
@@ -8,7 +8,7 @@ module.exports =
   serialize: ->
 
   consumeToolBar: (toolBar) ->
-    @toolBar = toolBar 'main-tool-bar'
+    @toolBar = toolBar 'jack-tool-bar'
 
     @toolBar.addButton
       icon: 'document'
