@@ -1,10 +1,10 @@
 {
   "name": "tool-bar-jack",
   "version": "1.0.0",
-  "description": "Tool bar settings made by @Jackymancs4 for @Jackymancs4",
+  "description": "Awesome toolbar settings made by @Jackymancs4 for @Jackymancs4",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Jackymancs4/tool-bar-jack.git"
+    "url": "https://github.com/Jackymancs4/tool-bar-jack"
   },
   "keywords": [
     "toolbar",
