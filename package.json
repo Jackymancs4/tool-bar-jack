@@ -1,17 +1,17 @@
 {
-  "name": "tool-bar-main",
-  "version": "0.0.11",
-  "description": "Main tool bar",
+  "name": "tool-bar-jack",
+  "version": "1.0.0",
+  "description": "Tool bar settings made by @Jackymancs4 for @Jackymancs4",
   "repository": {
     "type": "git",
-    "url": "git@github.com:suda/tool-bar-main.git"
+    "url": "git@github.com:Jackymancs4/tool-bar-jack.git"
   },
   "keywords": [
     "toolbar",
     "tool-bar"
   ],
   "license": "MIT",
-  "main": "./lib/tool-bar-main",
+  "main": "./lib/tool-bar-jack",
   "dependencies": {
     "atom-package-deps": "^4.6.1"
   },
